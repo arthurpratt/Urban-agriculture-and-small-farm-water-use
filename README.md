@@ -8,4 +8,4 @@ I used these files to calculate the time series water balances for the different
 This excel file is a template for calculating a time series irrigation water balance. It requires the user to be familiar with spreadsheets, water balances, and to input weather data.  
 
 # Matlab Uniformity Example 
-This matlab script takes an excel input file of sprinkler catch can data and propogates it across a field to simulate overlapping of sprinklers. The resulting array calculates a Distribution Uniformity (DU), a Coefficient of Uniformity (CU), and generates a 3D plot of irrigation depth.  
+This matlab script takes an excel input file of sprinkler catch can data and propogates it across a field to simulate overlapping of sprinklers. The resulting array calculates a Distribution Uniformity (DU), a Coefficient of Uniformity (CU), and generates a 3D plot of irrigation depth. The script is not trivial and requires the user to have a thorough understanding of the concept of sprinkler uniformity and the catch can test. 

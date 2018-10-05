@@ -4,7 +4,7 @@ This respository contains the excel and matlab files used in our analysis for th
 # Figures
 I used these files to calculate the time series water balances for the different fields in our manuscript, as well as the various figures in Section 3.3 Summary Observations. 
 
-# Time Series Irrigation Water Balance Example
+# Time Series Water Balance Example
 This excel file is a template for calculating a time series irrigation water balance. It requires the user to be familiar with spreadsheets, water balances, and to input weather data.  
 
 # Matlab Uniformity Example 
